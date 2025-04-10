@@ -1,0 +1,1 @@
+Krotka adnotacja odnosnie palindromow
